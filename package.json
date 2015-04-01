@@ -1,0 +1,27 @@
+{
+  "name": "previewer",
+  "version": "1.0.0",
+  "description": "Preview an index page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esmevane/previewer"
+  },
+  "keywords": [
+    "preview",
+    "index",
+    "sandbox"
+  ],
+  "author": "Joseph McCormick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esmevane/previewer/issues"
+  },
+  "homepage": "https://github.com/esmevane/previewer",
+  "devDependencies": {
+    "express": "^4.12.3"
+  }
+}
